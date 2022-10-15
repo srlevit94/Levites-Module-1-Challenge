@@ -50,11 +50,9 @@ a {
 
 /*makes main box for the background image to go above content*/
 .hero {
-    height: 1000px;
     width: 100%;
     margin-bottom: 25px;
-    background-size: cover;
-    background-position: center;
+    display: block;
 }
 
 /*sets background image to fill the width of the page*/
